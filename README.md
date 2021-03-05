@@ -1,4 +1,4 @@
-#### Hi there 👋 My Name is Ashley. I am a trainee DevOps on my last month of a 3 month DevOps Bootcamp.
+### Hi there 👋 I'm Ashley, I am a trainee DevOps on my last month of a 3 month DevOps Bootcamp.
 
 - 🔭 I’m currently working on: My group final project.
 - 🌱 I’m currently learning: The fundamentals of AWS
