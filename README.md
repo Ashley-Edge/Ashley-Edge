@@ -1,9 +1,9 @@
 ## Hi there, I'm Ashley 👋 
 
 - 🔭 I’m currently working on: Creating a fun [recipe book website](https://github.com/Ashley-Edge/Recipe_Book) to practice my HTML, CSS and Linux skills.
-- 🌱 I’m currently learning: Linux.
+- 🌱 I’m currently learning: Powershell and improving my Linux.
 - 📫 How to reach me: ashley@ashleyedge.co.uk
-- ⚡ Fun fact: I am hoping to change careers, from fashion to one in the growing world of wed development and DevOps.
+- ⚡ Fun fact: I am new to the wonderfull world of tech. I have recently landed my first position and a help Desk tech 😄
 
 <!--- 🔭 I’m currently working on:
 - 🌱 I’m currently learning:
