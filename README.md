@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: Completing the [Cloud Resume Challenge](https://cloudresumechallenge.dev/instructions/)
 - 🌱 I’m currently learning: Studying for my CompTIA A+ certification.
-- 📫 How to reach me: ashley@ashleyedge.co.uk
+- 📫 How to reach me: ashley@the-source.uk
 - ⚡ Fun fact: I am new to the wonderfull world of tech. I have recently landed my first position and a help Desk tech 😄
 
 <!--- 🔭 I’m currently working on:
